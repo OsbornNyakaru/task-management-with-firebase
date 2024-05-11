@@ -1,4 +1,4 @@
-# Task Manager README
+# Task Management with Firebase
 
 ## Description
 
