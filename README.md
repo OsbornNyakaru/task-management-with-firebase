@@ -33,5 +33,27 @@ To enable Firestore for Task Manager:
 3. Copy your Firebase configuration (apiKey, authDomain, projectId, etc.) and replace the placeholders in `app.js` with your actual Firebase configuration.
 4. Enable Firestore in your Firebase project.
 
-## Folder Structure
+##File Structure 
+
+task-manager/
+│
+├── index.html
+├── style.css
+├── app.js
+└── README.md
+
+
+- `index.html`: Main HTML file for the web application.
+- `style.css`: CSS file for styling the user interface.
+- `app.js`: JavaScript file for application logic and Firebase integration.
+
+## Contributing
+
+Contributions to Task Manager are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
 
